@@ -1,0 +1,16 @@
+{
+    "name": "nahid/new",
+    "description": "TEst",
+    "authors": [
+        {
+            "name": "Nahid",
+            "email": "test@gmail.com"
+        }
+    ],
+    "autoload": {
+    	"psr-4" : {
+    		"Nahid\\": "src"
+    	}
+    },
+    "require": {}
+}
